@@ -6,7 +6,7 @@ In this project, our main goal is to understand how to use else-if statement in 
 
 ### Problem
 
-Develop a program that display a student grade based on his score. 
+Develop a program that displays a student's grade based on his score. 
 
 |  Score  |  Grade  |
 |:-------:|:-------:|
@@ -23,8 +23,10 @@ Develop a program that display a student grade based on his score.
 #include <iostream>
 
 int main() {
+    int score = 89;
     /* Your code here*/
     return 0;
 }
+
 
 ```
